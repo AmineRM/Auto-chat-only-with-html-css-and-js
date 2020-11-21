@@ -1,10 +1,9 @@
 # **Auto chat with Javascript**
 
 ## **Introduction** : 
-Auto chat is a mo3awid of ai let user tfa3l with browser.
-- Help user solve problem
+Auto chat is a An alternative to Ai.
+- Help user to solve the problems
 - Ai speaking
-- Replace feedback
 
 ## **Sould know** : 
 - HTML 5
