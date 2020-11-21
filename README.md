@@ -1,7 +1,7 @@
 # **Auto chat with Javascript**
 
 ## **Introduction** : 
-Auto chat is a An alternative to Ai.
+Auto chat is a an alternative to Ai.
 - Help user to solve the problems
 - Ai speaking
 
@@ -11,7 +11,7 @@ Auto chat is a An alternative to Ai.
 - Javascript
 
 ## **How it work** :
-Site take a question (input) from user comapre it and answer (output).
+Site take a question (input) from user and give answer (output).
 
 ```js
     if ( input == "" ) {
